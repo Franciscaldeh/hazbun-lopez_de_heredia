@@ -15,7 +15,7 @@ var trabajos = [
 }, {
     figure: "media/foto-04.jpg",
     title: "Publicidad",
-    about: "triptico informativo para una fundación que promueve combatir al bullying",
+    about: "Tríptico informativo para una fundación que promueve combatir al bullying",
 }, {
     figure: "media/foto-05.jpg",
     title: "Diseño 3D",
@@ -23,11 +23,11 @@ var trabajos = [
 }, {
     figure: "media/foto-06.jpg",
     title: "Diseño textil",
-    about: "\"froggy\" poleras que flotan para que los niños no se ahoguen al caerse a la piscina",
+    about: "\"Froggy\" poleras que flotan para que los niños no se ahoguen al caerse a la piscina",
 }, {
     figure: "media/foto-07.jpg",
-    title: "Corte laser",
-    about: "Targeta de presentación hecha en madera con una máquina de corte laser",
+    title: "Corte láser",
+    about: "Tarjeta de presentación hecha en madera con una máquina de corte láser",
 }, {
     figure: "media/foto-08.jpg",
     title: "Diseño de mobiliario",
