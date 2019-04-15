@@ -15,7 +15,7 @@ var trabajos = [
 }, {
     figure: "media/foto-04.jpg",
     title: "Publicidad",
-    about: "Tríptico informativo para una fundación que promueve combatir al bullying",
+    about: "Tríptico informativo para una fundación que promueve combatir al bullying en los colegios",
 }, {
     figure: "media/foto-05.jpg",
     title: "Diseño 3D",
@@ -27,7 +27,7 @@ var trabajos = [
 }, {
     figure: "media/foto-07.jpg",
     title: "Corte láser",
-    about: "Tarjeta de presentación hecha en madera con una máquina de corte láser",
+    about: "Tarjeta de presentación hecha en madera mdf con una máquina de corte láser",
 }, {
     figure: "media/foto-08.jpg",
     title: "Diseño de mobiliario",
